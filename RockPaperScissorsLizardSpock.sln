@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissorsLizardSpock.API", "RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock.API.csproj", "{78DA4FC4-B1F6-450A-A1B8-129808F20862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissorsLizardSpock.Models", "RockPaperScissorsLizardSpock.Models\RockPaperScissorsLizardSpock.Models.csproj", "{08342AA6-5E15-4CBE-98A0-638C410FD910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScussorsLizardSpock.Services", "RockPaperScussorsLizardSpock.Services\RockPaperScussorsLizardSpock.Services.csproj", "{22D647C7-85F7-4CEC-9F02-2536AD61BBF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78DA4FC4-B1F6-450A-A1B8-129808F20862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DA4FC4-B1F6-450A-A1B8-129808F20862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DA4FC4-B1F6-450A-A1B8-129808F20862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DA4FC4-B1F6-450A-A1B8-129808F20862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08342AA6-5E15-4CBE-98A0-638C410FD910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08342AA6-5E15-4CBE-98A0-638C410FD910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08342AA6-5E15-4CBE-98A0-638C410FD910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08342AA6-5E15-4CBE-98A0-638C410FD910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D647C7-85F7-4CEC-9F02-2536AD61BBF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D647C7-85F7-4CEC-9F02-2536AD61BBF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D647C7-85F7-4CEC-9F02-2536AD61BBF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D647C7-85F7-4CEC-9F02-2536AD61BBF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76B1AC61-8755-4056-8526-CB29C9E099E0}
+	EndGlobalSection
+EndGlobal
